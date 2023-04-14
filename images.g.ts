@@ -1,5 +1,5 @@
 // Auto-generated code. Do not edit.
-namespace myImages {
+namespace storyImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
